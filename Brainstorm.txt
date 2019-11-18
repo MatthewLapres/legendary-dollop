@@ -1,0 +1,13 @@
+Pushup tracker
+
+2 inputs per day (ints ranging from 0 to 10000)
+
+function 1:
+
+get input 1 (a)
+get input 2 (b)
+store values in an array like this [(a1,b1),(a2,b2),(a3,b3)...]
+
+
+
+
